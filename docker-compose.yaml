@@ -1,5 +1,5 @@
 services:
-  mooncake:
+  oktetoaria2rclone:
     build: .
     shm_size: 2.6gb
     ports:
